@@ -12,6 +12,14 @@ I live in Dallas, TX
 
 Yes, I am. [Click me!](https://www.linkedin.com/in/fnu-milat-93ab89186/)
 
+## Am I on Instagram?
+
+Yes, I am. [Click me!](https://www.instagram.com/m_b_a_webdev/)
+
+## Am I on Twitter?
+
+Yes, I am. [Click me!](https://twitter.com/fnumilat_webdev)
+
 
 <!--
 **fnumilat/fnumilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
