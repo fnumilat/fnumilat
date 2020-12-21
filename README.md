@@ -19,7 +19,7 @@ Yes, I am. [Click me!](https://www.linkedin.com/in/fnu-milat-93ab89186/)
 
 ### Am I on Instagram?
 
-Yes, I am. [Click me!](https://www.instagram.com/m_b_a_webdev/)
+Yes, I am. [Click me!](https://www.instagram.com/fnumilat_webdev/)
 
 ### Am I on Twitter?
 
