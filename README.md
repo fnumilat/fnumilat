@@ -1,21 +1,17 @@
-## Hi there, welcome to my Github profile 👋
+## Hi there 👋
 
-### Why did I chose to become a Web Developer?
+### Short about Fnu:
 
-The applications and programs that I have been using to conduct inventory and purchase inventory at my current job as well as the applications that I have been using on my phone and PC not only have left me fascinated by how much they have made things easier for us to perform but also curious that how they are all being built. The fascination and curiosity are what made me to start this journey to not only learn but also create programs and applications that can make things more easier for the community and the entire world.
+Fnu Milat is a Full Stack Web Developer, graduated from Lambda School, and also has earned his Associate of Applied Science in Business Administration from Remington College. The web applications and programs that Fnu has been using in a day to day life have fascinated him by how much they are making life easier and the curiosity of how they all are being created is what has attracted him to take the new journey, and learn. Now Fnu is ready and excited to utilize the knowledge he has gained to build applications and programs that can bring more value to the world.
 
-### What are my technical skills?
+### Fnu's highlighted technical skills:
 
 Javascript | Html | CSS | Git | Python | React.js | Node.js | RESTful APIs | PostgreSQL | SQLite Testing | Data Structures | Algorithms | Computer Architecture
 
 
-### Where do I live?
+### Find Fnu on social media platforms:
 
-I live in Dallas, TX
-
-### Am I on LinkedIn?
-
-Yes, I am. [Click me!](https://www.linkedin.com/in/fnu-milat-93ab89186/)
+http://i.imgur.com/tXSoThF.png (https://www.linkedin.com/in/fnu-milat-93ab89186/)
 
 ### Am I on Instagram?
 
