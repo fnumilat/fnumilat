@@ -11,6 +11,8 @@ Javascript | Html | CSS | Git | Python | React.js | Node.js | RESTful APIs | Pos
 
 ### Find Fnu on social media platforms:
 
+[![Twitter][http://i.imgur.com/tXSoThF.png]][https://www.linkedin.com/in/fnu-milat-93ab89186/]
+
 http://i.imgur.com/tXSoThF.png (https://www.linkedin.com/in/fnu-milat-93ab89186/)
 
 ### Am I on Instagram?
