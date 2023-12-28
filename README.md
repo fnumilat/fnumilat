@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Full-Stack Engineer, graduated from Lambda School (which is now Bloom Institute of Technology).
+I studied the Full-Stack Web Development at Lambda School (which is now Bloom Institute of Technology).
 
 ### My highlighted technical skills:
 
